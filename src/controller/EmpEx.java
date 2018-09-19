@@ -75,6 +75,7 @@ public class EmpEx {
 		System.out.println(list2);
 		System.out.println("==============");
 		System.out.println("뀨");
+		System.out.println("뀨뀨");
 		
 		
 	}
