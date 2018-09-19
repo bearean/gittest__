@@ -74,6 +74,7 @@ public class EmpEx {
 		System.out.println("dao.selectAll");
 		System.out.println(list2);
 		System.out.println("==============");
+		System.out.println("뀨");
 		
 		
 	}
